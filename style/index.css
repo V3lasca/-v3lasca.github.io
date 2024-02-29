@@ -145,7 +145,7 @@ button {
     margin-left: 17.3%;
     font-size: 20px;
     font-family: monospace;
-    color: rgb(233, 233, 233);
+    color: #111;
     transition: 1s color ease-in-out;
 }
 
