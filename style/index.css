@@ -149,7 +149,7 @@ button {
     transition: 1s color ease-in-out;
 }
 
-.dark-mode .sub-title {color: #BB131C;}
+.dark-mode .sub-title {color: rgb(233, 233, 233);}
 
 .about-text{
     margin-left: 17.5%;
