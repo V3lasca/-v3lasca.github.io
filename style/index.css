@@ -37,7 +37,7 @@ button {
 
 .dark-mode {
     background-color: #111;
-    color: rgb(233, 233, 233)
+    color: rgb(233, 233, 233);
 }
 
 .theme-toggle {
@@ -145,7 +145,7 @@ button {
     margin-left: 17.3%;
     font-size: 20px;
     font-family: monospace;
-    color: #111;
+    color: rgb(233, 233, 233);
     transition: 1s color ease-in-out;
 }
 
@@ -204,7 +204,7 @@ li::before {
     color: #26619C;
     font-style: italic;
     text-decoration: none;
-    transition: .5s color ease-in-out
+    transition: .5s color ease-in-out;
 }
 
 .links:visited {color: #26619C;}
