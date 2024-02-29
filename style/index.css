@@ -433,7 +433,7 @@ li::before {
     }
 
     .typewriter-three h1 {
-        width: 45%;
+        width: 50%;
         overflow: hidden;
         letter-spacing: .60px;
         border-right: 15px solid;
