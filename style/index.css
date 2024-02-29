@@ -413,7 +413,7 @@ li::before {
 
     /* Typewriter Animation */
     .typewriter h1 {
-        width: 42%;
+        width: 45%;
         overflow: hidden;
         letter-spacing: .50px;
         border-right: 15px solid;
@@ -433,7 +433,7 @@ li::before {
     }
 
     .typewriter-three h1 {
-        width: 44%;
+        width: 45%;
         overflow: hidden;
         letter-spacing: .60px;
         border-right: 15px solid;
