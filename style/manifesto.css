@@ -38,7 +38,7 @@ body {background-color: black;}
     to {color: #17c017;}
 }
 
-/* Highlighter */ /* updated */
+/* Highlighter */
 ::selection {
     background-color: #003627;
     color: aliceblue;
