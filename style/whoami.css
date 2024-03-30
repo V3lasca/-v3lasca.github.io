@@ -459,21 +459,12 @@ li::before {
         font-family: monospace;
         color: #26619C;
         transition: 1s color ease-in-out;
-    }
-    
-    .sub-title {
-        margin-left: 17.1%;
-        font-size: 20px;
-        font-family: monospace;
-        color: #26619C;
-        transition: 1s color ease-in-out;
-    }    
+    } 
     
     .about-text {
         margin-left: 90px;
         margin-right: 65px;
         font-size: 130%;
-        text-align: center;
         line-height: 2em;
         letter-spacing: 2px;
         font-family: monospace;
@@ -483,7 +474,6 @@ li::before {
         margin-left: 90px;
         margin-right: 65px;
         font-size: 130%;
-        text-align: center;
         line-height: 2em;
         letter-spacing: 2px;
         font-family: monospace;
