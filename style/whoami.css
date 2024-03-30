@@ -416,7 +416,6 @@ li::before {
     .typewriter-one h1 {
         width: 48%;
         overflow: hidden;
-        text-align: center;
         letter-spacing: .50px;
         border-right: 15px solid;
         animation: 
@@ -427,7 +426,6 @@ li::before {
     .typewriter-two h1 {
         width: 48%;
         overflow: hidden;
-        text-align: center;
         letter-spacing: .50px;
         border-right: 15px solid;
         animation: 
@@ -438,7 +436,6 @@ li::before {
     .typewriter-three h1 {
         width: 60%;
         overflow: hidden;
-        text-align: center;
         letter-spacing: .60px;
         border-right: 15px solid;
         animation: 
@@ -483,8 +480,8 @@ li::before {
     }    
 
     .program-info {
-        margin-left: 100px;
-        margin-right: 100px;
+        margin-left: 90px;
+        margin-right: 65px;
         font-size: 130%;
         text-align: center;
         line-height: 2em;
