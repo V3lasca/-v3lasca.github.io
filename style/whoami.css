@@ -467,7 +467,6 @@ li::before {
     .sub-title {
         margin-left: 17.1%;
         font-size: 20px;
-        text-align: center;
         font-family: monospace;
         color: #26619C;
         transition: 1s color ease-in-out;
@@ -484,7 +483,7 @@ li::before {
     }    
 
     .program-info {
-        margin-left: 85px;
+        margin-left: 95px;
         margin-right: 100px;
         font-size: 130%;
         text-align: center;
