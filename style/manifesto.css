@@ -90,7 +90,7 @@ body {background-color: black;}
 
 /* Media Queries */
 
-/* Media Querie For Desktops and TVs*/
+/* Media Querie For Desktops and TVs */
 @media screen and (min-width: 1500px) {
     /* Hacker Manifesto Modified */
     .manifesto-text-modified {
