@@ -455,6 +455,7 @@ li::before {
         margin-left: 17.1%;
         margin-top: 5.5%;
         font-size: 35px;
+        text-align: center;
         font-family: monospace;
         color: #26619C;
         transition: 1s color ease-in-out;
@@ -464,6 +465,7 @@ li::before {
         margin-left: 90px;
         margin-right: 65px;
         font-size: 130%;
+        text-align: center;
         line-height: 2em;
         letter-spacing: 2px;
         font-family: monospace;
