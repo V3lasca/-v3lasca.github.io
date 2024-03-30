@@ -402,7 +402,7 @@ li::before {
     .fixed-button {
         right: 1%;
         bottom: 85%;
-        width: 3.5rem;
+        width: 3rem;
         position: fixed;
     }
 
