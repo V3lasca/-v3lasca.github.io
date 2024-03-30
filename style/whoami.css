@@ -260,7 +260,7 @@ li::before {
 
 /* Media Queries */
 
-/* Media Querie For Desktops and TVs*/
+/* Media Querie For Desktops and TVs */
 @media screen and (min-width: 1500px) {    
     .period-spacing {margin-left: -1%;}
 
