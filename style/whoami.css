@@ -90,7 +90,7 @@ button {
 }
 
 /* Typewriter Animation */
-.typewriter h1 {
+.typewriter-one h1 {
     width: 12.7%;
     overflow: hidden;
     letter-spacing: .50px;
@@ -290,7 +290,7 @@ li::before {
     body {overflow-x: hidden}
 
     /* Typewriter Animation */
-    .typewriter h1 {
+    .typewriter-one h1 {
         width: 10.5%;
         overflow: hidden;
         letter-spacing: .50px;
@@ -412,7 +412,7 @@ li::before {
     }
 
     /* Typewriter Animation */
-    .typewriter h1 {
+    .typewriter-one h1 {
         width: 48%;
         overflow: hidden;
         letter-spacing: .50px;
