@@ -90,7 +90,7 @@ button {
 }
 
 /* Typewriter Animation */
-.typewriter-one h1 {
+.typewriter h1 {
     width: 12.7%;
     overflow: hidden;
     letter-spacing: .50px;
@@ -180,7 +180,7 @@ button {
 
 li::before {
     content: "\25E6";
-    color: #3289e0;
+    color: #3289e0; /* Updated color */
     width: 1em;
     font-size: 1.5em;
     font-weight: bold;
@@ -201,15 +201,15 @@ li::before {
 
 /* Links */
 .links:link {
-    color: #3289e0;
+    color: #3289e0; /* Updated color */
     font-style: italic;
     text-decoration: none;
     transition: .5s color ease-in-out;
 }
 
-.links:visited {color: #3289e0;}
+.links:visited {color: #3289e0;} /* Updated color */
 
-.links:hover {color: #bc1dbc;}
+.links:hover {color: #ca20ca;} /* Updated color */
 
 .dark-mode .links:link {color: #BB131C;}
 
@@ -219,7 +219,7 @@ li::before {
 
 /* Hacker Manifesto */
 #spacing {
-    margin: 5% 0 5% 43.5%;
+    margin: 5% 0 5% 44%;
     font-size: 28px;
 }
 
@@ -233,7 +233,7 @@ li::before {
 }
 
 #manifesto:hover {
-    color: #9c2692;
+    color: #ca20ca; /* Updated color */
     text-shadow: 
         0px 0px 13px #bc1dbc, 
         0px 0px 13px #409fff;
@@ -290,7 +290,7 @@ li::before {
     body {overflow-x: hidden}
 
     /* Typewriter Animation */
-    .typewriter-one h1 {
+    .typewriter h1 {
         width: 10.5%;
         overflow: hidden;
         letter-spacing: .50px;
@@ -337,7 +337,6 @@ li::before {
         color: #3289e0;
         transition: 1s color ease-in-out;
     }    
-    
     .about-text {
         margin-left: 17.3%;
         margin-right: 10%;
@@ -402,7 +401,7 @@ li::before {
     .fixed-button {
         right: 1%;
         bottom: 85%;
-        width: 3rem;
+        width: 3.5rem;
         position: fixed;
     }
 
@@ -413,7 +412,7 @@ li::before {
     }
 
     /* Typewriter Animation */
-    .typewriter-one h1 {
+    .typewriter h1 {
         width: 48%;
         overflow: hidden;
         letter-spacing: .50px;
@@ -459,7 +458,7 @@ li::before {
         font-family: monospace;
         color: #3289e0;
         transition: 1s color ease-in-out;
-    } 
+    }
     
     .about-text {
         margin-left: 90px;
@@ -471,8 +470,8 @@ li::before {
     }    
 
     .program-info {
-        margin-left: 90px;
-        margin-right: 65px;
+        margin-left: 85px;
+        margin-right: 100px;
         font-size: 130%;
         line-height: 2em;
         letter-spacing: 2px;
