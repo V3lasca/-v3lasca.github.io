@@ -182,7 +182,7 @@ li::before {
     content: "\25E6";
     color: #3289e0; /* Updated color */
     width: 1em;
-    font-size: 1.5em;
+    font-size: 2em;
     font-weight: bold;
     margin-left: -1em;
     display: inline-block; 
@@ -193,7 +193,7 @@ li::before {
     content: "\25E6";
     color: #BB131C;
     width: 1em;
-    font-size: 1.5em;
+    font-size: 2em;
     font-weight: bold;
     margin-left: -1em;
     display: inline-block; 
